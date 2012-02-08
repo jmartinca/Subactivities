@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Subactivity!</string>
+    <string name="app_name">Subactivities</string>
+    <string name="ButtonCancel">Cancelar</string>
+    <string name="ButtonOK">Cambiar</string>
+    <string name="edit">editame</string>
+</resources>
